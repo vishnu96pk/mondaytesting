@@ -3,3 +3,5 @@ git status
 git init
 
 git rebase
+
+git commit
