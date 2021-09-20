@@ -7,3 +7,5 @@ git rebase
 git commit
 
 git merge
+
+git checkout
